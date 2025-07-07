@@ -1,5 +1,5 @@
 # Profile Page
-## Date:
+## Date:07-07-2025
 ## Objective:
 
 To design a simple Profile Page using HTML that displays a user's profile image, name, headings, and a short bio, suitable for personal or academic purposes.
@@ -42,6 +42,42 @@ Do not use CSS or JavaScript.
 
 Focus on semantic HTML and readability.
 ## HTML Code:
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Profile</title>
+    </head>
+    <body>
+        <section>
+            <h1>PRAKASH M</h1>
+            <h2>Student</h2>
+            <h3>Full Stack Developer</h3>
+        </section>
+    
+        <hr>
+    
+        <section>
+            <div>
+                <img src="image.png" alt="image breaked - author" width="200" height="200">
+            </div>
+        </section>
+    
+        <hr>
+    
+        <section>
+            <article>
+                <h2>About Me</h2>
+                <p>
+              Hello! I'm a passionate and curious individual with a background in Computer Science from Saveetha Engineering College. I have a deep interest in web development and App Developement. I enjoy learning new technologies and constantly seek opportunities to grow both personally and professionally. Outside of work, I love photography. I'm excited to connect with others and share ideas that make a difference.
+             </p>
+
+            </article>
+        </section>
+    
+    </body>
+    </html>
+```
 ## Output:
 
 ## Result:
