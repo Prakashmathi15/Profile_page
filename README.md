@@ -79,6 +79,8 @@ Focus on semantic HTML and readability.
     </html>
 ```
 ## Output:
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/52967e16-3eec-4453-ae23-b0647ee1ac65" />
+
 
 ## Result:
 A simple Profile Page using HTML that displays a user's profile image, name, headings, and a short bio, suitable for personal or academic purposes is designed successfully.
